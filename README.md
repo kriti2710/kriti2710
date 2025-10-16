@@ -6,11 +6,10 @@
 <!-- Introduction -->
 ### 👋 About Me
 
-I'm **Kriti Verma**, a passionate and dedicated developer with a keen interest in building impactful software solutions. My journey in the tech world is driven by curiosity and a continuous desire to learn and grow.
+I'm **Kriti Verma**, a passionate and dedicated QA Engineer with a keen interest in building impactful software solutions. My journey in the tech world is driven by curiosity and a continuous desire to learn and grow.
 
 - 🎓 Pursuing B.Tech in Computer Science
-- 💻 Enthusiast in Web Development and Software Engineering
-- 🌱 Currently exploring the realms of Data Science and Machine Learning
+- 💻 Enthusiast in QA Automation Testing and Software Engineering
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kriti-verma/) | [Email](mailto:kriti.verma@example.com)
 
 ---
